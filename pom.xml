@@ -55,9 +55,9 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<url>${pom.url}</url>
-							<Specification-Version>${pom.version}</Specification-Version>
-							<Package>${pom.name}</Package>
+							<url>${project.url}</url>
+							<Specification-Version>${project.version}</Specification-Version>
+							<Package>${project.name}</Package>
 						</manifestEntries>
 					</archive>
 				</configuration>
@@ -69,9 +69,9 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<url>${pom.url}</url>
-							<Specification-Version>${pom.version}</Specification-Version>
-							<Package>${pom.name}</Package>
+							<url>${project.url}</url>
+							<Specification-Version>${project.version}</Specification-Version>
+							<Package>${project.name}</Package>
 						</manifestEntries>
 					</archive>
 				</configuration>
